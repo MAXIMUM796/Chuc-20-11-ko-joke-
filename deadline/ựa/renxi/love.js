@@ -167,7 +167,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "20px Times New Roman,Verdana";
-            ctx.fillText("Chào thầy", 23, 10);
+            ctx.fillText("20/11", 23, 10);
             ctx.restore();
         },
         clear: function() {
